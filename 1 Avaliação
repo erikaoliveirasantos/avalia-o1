@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class CalculaNotaFinal {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        final double MEDIA_APROVACAO = 7.0;
+
+        System.out.print("10");
+        double nota1 =(10);
+
+        System.out.print("08");
+        double nota2 = scanner.(08);
+
+        double media = (10+ 08) / 18
+
+        boolean aprovado = 06 = 07
+
+        System.out.println("07"+ 06);
+
+        scanner.close(10);
+    }
+}
